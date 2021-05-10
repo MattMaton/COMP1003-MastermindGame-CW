@@ -1,0 +1,13 @@
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\bin\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.exe
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\bin\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.deps.json
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\bin\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.runtimeconfig.json
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\bin\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.runtimeconfig.dev.json
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\bin\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.dll
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\bin\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.pdb
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.csprojAssemblyReference.cache
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.AssemblyInfoInputs.cache
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.AssemblyInfo.cs
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.csproj.CoreCompileInputs.cache
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.dll
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.pdb
+C:\Users\mattm\Documents\University\COMP1003 - Algorithms, Data Structures & Mathematics\COMP1003-MastermindGame-CW\COMP1003-MastermindGame-CW\obj\Debug\netcoreapp3.1\COMP1003-MastermindGame-CW.genruntimeconfig.cache
